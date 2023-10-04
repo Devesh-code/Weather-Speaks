@@ -1,5 +1,5 @@
 # Weather-Speaks
-# Weather Information Voice Assistant
+# Weather Information 
 
 This is a simple Python script that allows you to retrieve and hear weather information for a specific city using the WeatherAPI. The script prompts you to enter a city, and then you can choose to get information about temperature, humidity, wind speed, or cloud cover for that city.
 
@@ -24,7 +24,7 @@ Before you can run this script, you need to have the following installed on your
 
 4. Run the script using the following command:
    ```bash
-   python weather_voice_assistant.py
+   main.py
    ```
 
 5. Follow the prompts:
